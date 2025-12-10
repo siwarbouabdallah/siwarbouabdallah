@@ -1,11 +1,12 @@
 <!-- Bannière -->
-<p align="center">
-  <img src="https://i.imgur.com/NltQq2E.png" width="850"/>
-</p>
+
 
 <h1 align="center">✨ Hey, je suis <span style="color:#ff6f91;">Siwar Bouabdellah</span> ✨</h1>
 <h3 align="center">Ingénieure Full-Stack • Java | Spring Boot | Angular • Passionnée IA & DevOps</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siwarbouabdallah&color=ff6f91&style=for-the-badge">
+</p>
 
 ---
 
