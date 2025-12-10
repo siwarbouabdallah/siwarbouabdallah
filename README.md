@@ -1,8 +1,10 @@
 <!-- Bannière -->
-
+<p align="center">
+  <img src="https://i.imgur.com/NltQq2E.png" width="850"/>
+</p>
 
 <h1 align="center">✨ Hey, je suis <span style="color:#ff6f91;">Siwar Bouabdellah</span> ✨</h1>
-<h3 align="center">Ingénieure Full-Stack • Java | Spring Boot | Angular • Passionnée IA </h3>
+<h3 align="center">Ingénieure Full-Stack • Java | Spring Boot | Angular • Passionnée IA & DevOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siwarbouabdallah&color=ff6f91&style=for-the-badge">
@@ -63,9 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwarbouabdallah&layout=compact&theme=dracula&border_radius=20&title_color=ff6f91" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=siwarbouabdallah&theme=highcontrast&hide_border=true&background=0D1117&ring=ff6f91&fire=ff6f91&currStreakLabel=ff6f91" />
-</p>
+
 
 ---
 
