@@ -1,106 +1,112 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/NltQq2E.png" width="850"/>
-</p>
+# Siwar Bouabdellah
 
-<h1 align="center">✨ Hi, I'm <span style="color:#ff6f91;">Siwar Bouabdellah</span> ✨</h1>
-<h3 align="center">
-Full-Stack Software Engineer • Java | Spring Boot | Angular <br/>
-AI & DevOps Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siwarbouabdellah&color=ff6f91&style=for-the-badge">
-</p>
+**Ingénieure Logiciel – Backend Java | Intelligence Artificielle | DevOps**  
+📍 Tunis, Tunisie
 
 ---
 
-## 🎨 About Me
+## Profil
 
-💡 **Full-Stack Software Engineer** passionate about building **modern, scalable, and intelligent applications**.  
-🚀 Strong expertise in **Java / Spring Boot / Angular**, with hands-on experience in **DevOps pipelines** and **AI-powered systems**.  
-🧠 Curious, motivated, and always eager to learn new technologies.  
+Ingénieure logiciel spécialisée en **développement backend Java (Spring Boot)**, avec une forte orientation vers  
+l’**Intelligence Artificielle appliquée** et les **pratiques DevOps**.
 
-🎯 **Career goal:** secure my first full-time position as a **Full-Stack Engineer** or **Backend Java Developer**.
+Je conçois des applications **robustes, maintenables et scalables**, en maîtrisant l’ensemble du cycle de vie logiciel :  
+conception, développement, intégration de modèles IA, déploiement et supervision.
 
----
-
-## 🎯 Tech Stack
-
-### 🔥 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css&theme=light" />
-</p>
-
-### 🚀 Frameworks, DevOps & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,angular,docker,jenkins,git,postgres,mysql&theme=light" />
-</p>
+Objectif professionnel :  
+**Intégrer une équipe technique en tant qu’ingénieure backend / full-stack junior**, sur des projets à forte valeur ajoutée.
 
 ---
 
-## 🌟 Featured Projects
+## Compétences techniques
 
-### 🧠 AI & Intelligent Systems — *Final Year Project*
-- Machine Learning models: classification, fraud detection, payment delay prediction  
-- Model export with **PMML / ONNX** and integration into **Spring Boot**  
-- **Angular** frontend with dashboards & real-time visualization  
-- Innovative **multi-agent system** combining **OWL ontology + LLM**
+### Langages
+- Java
+- Python
+- TypeScript / JavaScript
+- SQL
 
----
+### Backend & Frameworks
+- Spring Boot
+- REST APIs
+- Architecture en couches
+- Principes SOLID
 
-### 🛒 Inventory Management Web Application
-- Reduced manual errors by **30%**
-- Clean backend architecture with **Spring Boot REST APIs**
-- Dynamic and user-friendly **Angular UI**
+### Intelligence Artificielle
+- Préparation et analyse des données
+- Modèles de classification et prédiction
+- Intégration de modèles ML en production
+- Export de modèles : PMML / ONNX
 
----
+### DevOps & Outils
+- Docker, Docker Compose
+- Jenkins (CI/CD)
+- SonarQube, Nexus
+- Prometheus, Grafana
+- Git / GitHub
 
-### 🚗🏠 Carpooling & Coliving Platform
-- Advanced search and dynamic filtering
-- Optimized backend using **Spring Boot**
-- Full-stack academic project
-
----
-
-### 🖥️ DevOps CI/CD Pipeline
-- Automated CI/CD using **Jenkins**
-- Containerization with **Docker**
-- Code quality: **SonarQube & Nexus**
-- Monitoring with **Prometheus & Grafana**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siwarbouabdellah&show_icons=true&theme=dracula&border_radius=20&icon_color=ff6f91&title_color=ff6f91" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwarbouabdellah&layout=compact&theme=dracula&border_radius=20&title_color=ff6f91" height="165" />
-</p>
+### Bases de données
+- MySQL
+- PostgreSQL
 
 ---
 
-## 🌈 Dev Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-</p>
+## Projets significatifs
+
+### Système intelligent d’optimisation fiscale — Projet de Fin d’Études
+- Développement de modèles **Machine Learning** :
+  - classification de contribuables
+  - détection de fraude
+  - prédiction des retards de paiement
+- Industrialisation des modèles via **PMML / ONNX**
+- Intégration des modèles dans une application **Spring Boot**
+- Conception d’un **système multi-agent** combinant :
+  - une ontologie fiscale (OWL)
+  - un modèle LLM pour l’assistance réglementaire
+- Tableau de bord Angular pour la visualisation et l’aide à la décision
+
+**Technologies :** Java, Spring Boot, Python, Machine Learning, Angular
 
 ---
 
-## 📫 Contact Me
+### Pipeline DevOps CI/CD
+- Mise en place d’un pipeline CI/CD automatisé
+- Conteneurisation des services avec Docker
+- Analyse de qualité du code (SonarQube)
+- Supervision et monitoring (Prometheus, Grafana)
 
-📍 Tunis, Tunisia  
-📧 **Email:** siwar.bouabdellah@esprit.tn  
-🔗 **LinkedIn:** https://www.linkedin.com/in/siwar-bouabdellah  
-🐙 **GitHub:** https://github.com/siwarbouabdellah  
+**Technologies :** Jenkins, Docker, SonarQube, Nexus, Prometheus, Grafana
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/7QFfQ6S.gif" width="280"/>
-</p>
+### Application de gestion d’inventaire
+- Développement d’une application web backend robuste
+- Réduction des erreurs manuelles de 30 %
+- APIs REST performantes
+- Architecture claire et maintenable
 
-<h3 align="center">
-✨ Thanks for visiting my profile! <br/>
-Open to opportunities, collaborations, and exciting projects ✨
-</h3>
+**Technologies :** Java, Spring Boot, MySQL
+
+---
+
+## Formation
+
+**ESPRIT – École Supérieure Privée d’Ingénierie et de Technologies**  
+Cycle ingénieur en génie logiciel
+
+Modules clés :
+- Intelligence Artificielle
+- Business Intelligence
+- Big Data
+
+---
+
+## Contact
+
+📧 Email : siwar.bouabdellah@esprit.tn  
+🔗 LinkedIn : https://www.linkedin.com/in/siwar-bouabdellah  
+🐙 GitHub : https://github.com/siwarbouabdellah
+
+---
+
+_Disponible pour opportunités junior en développement backend, IA appliquée et DevOps._
