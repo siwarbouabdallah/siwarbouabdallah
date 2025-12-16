@@ -1,91 +1,95 @@
-<!-- Bannière -->
-<p align="center">
-  <img src="https://i.imgur.com/NltQq2E.png" width="850"/>
-</p>
+<img src="banner.png" alt="Siwar Bouabdellah Banner" width="100%" />
 
-<h1 align="center">✨ Hey, je suis <span style="color:#ff6f91;">Siwar Bouabdellah</span> ✨</h1>
-<h3 align="center">Ingénieure Full-Stack • Java | Spring Boot | Angular • Passionnée IA & DevOps</h3>
+# 👋 Hi, I'm Siwar Bouabdellah  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siwarbouabdallah&color=ff6f91&style=for-the-badge">
-</p>
+🎓 **Full-Stack Software Engineer**  
+💻 **Java | Spring Boot | Angular | AI | DevOps**  
+📍 Tunis, Tunisia  
 
----
-
-## 🎨 À propos de moi
-
-💡 Ingénieure Full-Stack passionnée par la création d’applications modernes, performantes et intelligentes.  
-🚀 Spécialisée en **Java / Spring Boot / Angular**, avec une forte culture **DevOps** et une vraie passion pour l’**IA appliquée**.  
-🎯 Objectif : **Décrocher mon premier poste** en tant que développeuse Full-Stack / Backend Java.
+I build **scalable web applications**, **AI-powered systems**, and **CI/CD DevOps pipelines**.  
+Passionate about clean architecture, performance, and modern software engineering.
 
 ---
 
-## 🎯 Stack Technique
+## 🧠 Technical Skills
 
-### 🔥 Langages  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css&theme=light" />
-</p>
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🚀 Frameworks & Outils  
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,angular,docker,jenkins,git,postgres,mysql&theme=light" />
-</p>
+### ⚙️ Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 🌟 Projets phares
-
-### 🧠 IA & Systèmes intelligents — (Projet PFE)
-- Modèles ML : classification, fraude, prédiction  
-- Export PMML/ONNX + intégration Spring Boot  
-- Interface Angular moderne + dashboard  
-- Système multi-agent (OWL + LLM)
-
-### 🛒 Application de gestion d’inventaire
-- Réduction des erreurs de 30%  
-- API REST robuste & architecture propre  
-- Angular UI dynamique
-
-### 🚗🏠 Plateforme Covoiturage & Colocation
-- Recherche avancée & filtres dynamiques  
-- Backend optimisé Spring Boot
-
-### 🖥️ Pipeline DevOps CI/CD
-- Docker, Jenkins, Sonar, Nexus  
-- Monitoring : Prometheus + Grafana  
-- Tests + intégration continue
+### 🛠 DevOps & Monitoring
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## 🎉 Stats GitHub (Colorful & Animées)
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siwarbouabdallah&show_icons=true&theme=dracula&border_radius=20&icon_color=ff6f91&title_color=ff6f91" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwarbouabdallah&layout=compact&theme=dracula&border_radius=20&title_color=ff6f91" height="165" />
-</p>
+### 🤖 AI-Powered Fiscal Optimization System
+- Machine Learning models for fraud detection & payment delay prediction  
+- PMML / ONNX model deployment  
+- Multi-agent system with ontology & LLM  
+- Spring Boot backend & Angular dashboard  
 
-
-
----
-
-## 🌈 Dev Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-</p>
+👉 **Repository:** https://github.com/siwarbouabdellah/ai-fiscal-optimization
 
 ---
 
-## 📫 Me contacter  
-📍 Tunis, Tunisie  
-📧 **siwar.bouabdellah@esprit.tn**  
-🔗 **LinkedIn :** https://www.linkedin.com/in/siwarbouabdallah  
-🐙 **GitHub :** https://github.com/siwarbouabdallah  
+### 🚀 CI/CD DevOps Pipeline
+- Automated CI/CD with Jenkins & Git  
+- Docker & Docker Compose deployment  
+- Code quality with SonarQube  
+- Monitoring with Prometheus & Grafana  
+
+👉 **Repository:** https://github.com/siwarbouabdellah/devops-ci-cd-pipeline
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/7QFfQ6S.gif" width="300"/>
-</p>
+### 🚗 Carpooling & Coliving Platform
+- Full-stack web application  
+- Advanced filtering & optimized backend  
+- REST APIs with Spring Boot  
 
-<h3 align="center">✨ Merci de visiter mon profil ! Toujours ouverte aux collaborations et opportunités. ✨</h3>
+👉 **Repository:** https://github.com/siwarbouabdellah/carpooling-platform
+
+---
+
+### 🏋️ Gym Management System
+- Web & Desktop applications  
+- Subscription, booking & payment management  
+- JavaFX desktop UI  
+
+👉 **Repository:** https://github.com/siwarbouabdellah/gym-management-system
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siwarbouabdellah&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siwarbouabdellah&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Recruiter / ATS Keywords
+`Full-Stack Engineer` • `Java Developer` • `Spring Boot` • `Angular`  
+`REST APIs` • `Microservices` • `Machine Learning` • `DevOps`  
+`Docker` • `CI/CD` • `SQL` • `Agile` • `Clean Architecture`
+
+---
+
+## 📫 Contact
+
+📧 **Email:** siwar.bouabdellah@esprit.tn  
+💼 **LinkedIn:** https://www.linkedin.com/in/siwar-bouabdellah  
+
+---
+
+✨ *Open to Junior / Entry-Level Software Engineer Opportunities*
