@@ -1,26 +1,23 @@
-
 # Siwar Bouabdellah
 
-**Software Engineer | Backend Java • Artificial Intelligence • DevOps**  
+**Software Engineer — Backend Java | Artificial Intelligence | DevOps**  
 📍 Tunis, Tunisia
 
 ---
 
-## Profile
+## 👩‍💻 About Me
 
-Software Engineer specialized in **Java backend development (Spring Boot)**, with a strong focus on  
-**applied Artificial Intelligence** and **DevOps practices**.
+I am a **Software Engineer specialized in backend development with Java and Spring Boot**, with strong interests in  
+**Applied Artificial Intelligence** and **DevOps engineering**.
 
-I design **robust, maintainable, and scalable applications**, with solid experience in:
-- backend architecture
-- production integration of machine learning models
-- CI/CD automation and deployment
+I enjoy designing **clean, scalable, and production-ready systems**, from backend architecture to  
+machine learning model integration and automated deployment pipelines.
 
-🎯 Career goal: **Junior Backend Java / Full-Stack Engineer position**, with exposure to AI and DevOps.
+🎯 **Career objective:** Junior **Backend Java / Full-Stack Engineer** role, with exposure to AI-driven systems and DevOps practices.
 
 ---
 
-## Technical Skills
+## 🧠 Technical Expertise
 
 ### Programming Languages
 <p>
@@ -37,20 +34,20 @@ I design **robust, maintainable, and scalable applications**, with solid experie
   <img src="https://skillicons.dev/icons?i=python&theme=light" />
 </p>
 
-- Data preparation and analysis  
+- Data preparation, cleaning, and feature engineering  
 - Classification and prediction models  
-- ML model integration in production  
-- Model export: **PMML / ONNX**
+- Production integration of ML models  
+- Model export and serving: **PMML / ONNX**
 
-### DevOps
+### DevOps & Tooling
 <p>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,git&theme=light" />
 </p>
 
-- CI/CD pipelines with Jenkins  
-- Containerization with Docker / Docker Compose  
-- Code quality: SonarQube, Nexus  
-- Monitoring: Prometheus, Grafana  
+- CI/CD pipeline design and automation  
+- Docker & Docker Compose for containerization  
+- Code quality and artifact management (SonarQube, Nexus)  
+- Monitoring & observability (Prometheus, Grafana)
 
 ### Databases
 <p>
@@ -59,59 +56,60 @@ I design **robust, maintainable, and scalable applications**, with solid experie
 
 ---
 
-## Key Projects
+## 🚀 Selected Projects
 
-### Intelligent Fiscal Optimization System — *Final Year Project*
-- **Machine Learning models**:
-  - taxpayer classification
-  - fraud detection
-  - late payment prediction
-- Model industrialization using **PMML / ONNX**
-- Integration into a **Spring Boot** application
-- **Multi-agent system** combining **OWL ontology + LLM**
-- Angular dashboard for decision support and visualization
+### Intelligent Fiscal Optimization Platform — *Final Year Project*
+- Designed and trained **Machine Learning models** for:
+  - taxpayer classification  
+  - fraud detection  
+  - late payment prediction  
+- Industrialized models using **PMML / ONNX**
+- Integrated ML inference into a **Spring Boot** backend
+- Built a **multi-agent system** combining **OWL ontology + LLM**
+- Developed an **Angular dashboard** for decision support and analytics
 
-**Tech stack:** Java, Spring Boot, Python, Machine Learning, Angular
+**Stack:** Java, Spring Boot, Python, Machine Learning, Angular
 
 ---
 
 ### CI/CD DevOps Pipeline
-- Automated CI/CD pipeline
+- End-to-end automated **CI/CD pipeline**
 - Service containerization with Docker
-- Code quality analysis and artifact management
-- Monitoring and observability
+- Code quality checks and artifact management
+- System monitoring and metrics visualization
 
-**Tech stack:** Jenkins, Docker, SonarQube, Nexus, Prometheus, Grafana
-
----
-
-### Inventory Management Application
-- Robust Java backend
-- Clean and performant REST APIs
-- 30% reduction in manual errors
-
-**Tech stack:** Java, Spring Boot, MySQL
+**Stack:** Jenkins, Docker, SonarQube, Nexus, Prometheus, Grafana
 
 ---
 
-## Education
+### Inventory Management System
+- Designed a robust **Java backend**
+- Implemented clean and performant **REST APIs**
+- Achieved a **30% reduction in manual errors**
+
+**Stack:** Java, Spring Boot, MySQL
+
+---
+
+## 🎓 Education
 
 **ESPRIT – Private Higher School of Engineering and Technology**  
 Software Engineering Degree
 
-Main coursework:
-- Artificial Intelligence
-- Business Intelligence
-- Big Data
+Relevant coursework:
+- Artificial Intelligence  
+- Business Intelligence  
+- Big Data  
 
 ---
 
-## Contact
+## 📫 Contact
 
-📧 Email: **siwar.bouabdellah@esprit.tn**  
-🔗 LinkedIn: https://www.linkedin.com/in/siwar-bouabdellah  
-🐙 GitHub: https://github.com/siwarbouabdellah
+📧 **Email:** siwar.bouabdellah@esprit.tn  
+🔗 **LinkedIn:** https://www.linkedin.com/in/siwar-bouabdellah  
+🐙 **GitHub:** https://github.com/siwarbouabdellah  
 
 ---
 
-_Open to junior opportunities in backend development, applied AI, and DevOps._
+*Actively seeking junior opportunities in Backend Development, Applied AI, and DevOps.*
+
