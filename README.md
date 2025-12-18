@@ -1,6 +1,6 @@
 # Siwar Bouabdellah
 
-**Software Engineer — Backend Java | Artificial Intelligence | DevOps**  
+**Software Engineer**  
 📍 Tunis, Tunisia
 
 ---
